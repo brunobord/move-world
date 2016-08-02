@@ -31,9 +31,9 @@ The MC will present situations and eventually the players will have to make a mo
 
 **When you move** ``roll 2d6+stat``:
 
-* on 6-: something bad is happening. The MC may call for a *hard move*.
-* on 7-9: you barely succeed, but with a cost. The MC may call for a *soft move*.
-* on 10+: you succeed.
+* **on 6-**: something bad is happening. The MC may call for a *hard move*.
+* **on 7-9**: you barely succeed, but with a cost. The MC may call for a *soft move*.
+* **on 10+**: your movement is successful.
 
 ### Examples of MC moves
 
