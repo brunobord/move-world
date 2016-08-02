@@ -1,5 +1,6 @@
-PANDOC=pandoc --standalone -f markdown_github -t html --css=css/layout.css
-PANDOC_PB=pandoc --standalone -f markdown_github -t html --css=../css/layout.css
+PANDOC_ROOT=pandoc --standalone -f markdown_github -t html
+PANDOC=$(PANDOC_ROOT) --css=css/layout.css --css=css/styles.css
+PANDOC_PB=$(PANDOC_ROOT) --css=../css/layout.css --css=../css/styles.css
 
 .PHONY: build
 build:

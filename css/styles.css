@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Faster+One|Cairo:400,700);
+
+body {
+    font-family: 'Cairo', sans-serif;
+    font-size: 1.1em;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Faster One', cursive;
+}
+
+blockquote p {
+    font-style: italic;
+    border-left: 4px solid #777;
+    padding-left: .5em;
+}
+a, a:visited {
+    color: #555;
+}
+a:hover {
+    color: #666;
+}
