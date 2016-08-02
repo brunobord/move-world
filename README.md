@@ -29,7 +29,7 @@ If the MC feels the need, she may ask the players to explain how the characters 
 
 The MC will present situations and eventually the players will have to make a movement with their body. Each time a body movement is uncertain, presents a risk, or even danger, the MC will have to call for a **Move**.
 
-**When you move** ``roll+stat``:
+**When you move** ``roll 2d6+stat``:
 
 * on 6-: something bad is happening. The MC may call for a *hard move*.
 * on 7-9: you barely succeed, but with a cost. The MC may call for a *soft move*.
