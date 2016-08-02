@@ -18,3 +18,9 @@ build:
 	$(PANDOC_PB) playbooks/the-nimble.md -o build/playbooks/the-nimble.html
 	# Copy styles
 	cp -r css/* build/css/
+
+
+.PHONY: clean
+clean:
+	# clean up the build directories
+	rm -Rf build/
